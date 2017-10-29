@@ -1,0 +1,27 @@
+body {
+  font-family: segoe ui, Arial, sans-serif;
+  text-align: center;
+  background-color: #F2F2F2;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 50px auto;
+
+}
+
+h1 {
+  font-weight: 200;
+  font-size: 2em;
+  margin: 0 0 0.1em 0;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-family: segoe ui;
+  padding-top: 60px;
+  padding-bottom: 60px;
+
+}
+
+#doughnut-chart {
+ 
+}
